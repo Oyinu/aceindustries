@@ -622,6 +622,9 @@ hr{
   }
   
 @media (max-width: 768px) {
+    *{
+        scroll-behavior: smooth;
+    }
     html{
         position: static;
         width: 100vw;
@@ -642,7 +645,7 @@ hr{
         height: 5rem;
     }
     .logo{
-        margin-left: 8.6%;
+        margin-left: 9%;
     }
     .navlinks{
         opacity: 0;
@@ -673,11 +676,14 @@ hr{
     }
     .link{
         font-size: 0.4rem;
-        padding: 0.8rem 1.2rem;
+        padding: 0.3rem 1.2rem;
         margin-top: 2rem;
         border-radius:1.8rem;
        width: fit-content;
        cursor: pointer;
+    }
+    link a{
+        font-size: 0.7rem;
     }
     .fourth{
         font-size: 1.5rem;
