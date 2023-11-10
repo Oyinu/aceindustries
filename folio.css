@@ -741,7 +741,7 @@ hr{
        cursor: pointer;
     }
     .fourth{
-        font-size: 1rem;
+        font-size: 2rem;
         letter-spacing: 2px;
         margin-top: -35%;
         margin-left: 24%;
@@ -753,7 +753,7 @@ hr{
         font-size: 1.8rem;
     }
     .fifth{
-        font-size: 15px;
+        font-size: 12px;
         margin-left: -25%;
         margin-right: 30%;
         margin-top:10%;
