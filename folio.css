@@ -637,11 +637,11 @@ hr{
     }
     section{
         min-height: 50vh;
-        padding: 8rem 4% 2.4rem;
+        padding: 8rem 6% 2.4rem;
         width: 100%;
     }
     #footer{
-        padding: 5rem 4% 1rem;
+        padding: 5rem 6% 1rem;
         width: 100%;
         background-color:#211D1D;
     }
@@ -758,7 +758,7 @@ hr{
     }
     #Contact{
         min-height: 40vh;
-        padding: 8rem 4% 2.4rem;
+        padding: 8rem 6% 2.4rem;
     }
     .heading{
         font-size:1.2rem ;
